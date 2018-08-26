@@ -1,0 +1,315 @@
+
+INPUT-UNITS     MM
+
+WHEEL     1
+
+RECTANGLE        2.5       0.8   0.00000  D10
+RECTANGLE        0.8       2.5   0.00000  D11
+RECTANGLE        2.6       0.9   0.00000  D12
+RECTANGLE        0.9       2.6   0.00000  D13
+CIRCLE           1.5            D14
+CIRCLE           1.6            D15
+RECTANGLE          1       0.6   0.00000  D16
+RECTANGLE        0.6         1   0.00000  D17
+RECTANGLE        1.1       0.7   0.00000  D18
+RECTANGLE        0.7       1.1   0.00000  D19
+RECTANGLE        0.9      0.65   0.00000  D20
+RECTANGLE       0.65       0.9   0.00000  D21
+RECTANGLE          1      0.75   0.00000  D22
+RECTANGLE       0.75         1   0.00000  D23
+RECTANGLE        1.8       4.6   0.00000  D24
+RECTANGLE        4.6       1.8   0.00000  D25
+RECTANGLE        1.9       4.7   0.00000  D26
+RECTANGLE        4.7       1.9   0.00000  D27
+RECTANGLE        0.7       0.6   0.00000  D28
+RECTANGLE        0.6       0.7   0.00000  D29
+RECTANGLE        0.8       0.7   0.00000  D30
+RECTANGLE        0.7       0.8   0.00000  D31
+RECTANGLE          1       0.5   0.00000  D32
+RECTANGLE        0.5         1   0.00000  D33
+RECTANGLE        1.1       0.6   0.00000  D34
+RECTANGLE        0.6       1.1   0.00000  D35
+RECTANGLE          1      0.65   0.00000  D36
+RECTANGLE       0.65         1   0.00000  D37
+RECTANGLE        1.1      0.75   0.00000  D38
+RECTANGLE       0.75       1.1   0.00000  D39
+SQUARE           0.4   0.00000            D40
+SQUARE           0.5   0.00000            D41
+RECTANGLE        2.5      0.35   0.00000  D42
+RECTANGLE       0.35       2.5   0.00000  D43
+RECTANGLE        2.6      0.45   0.00000  D44
+RECTANGLE       0.45       2.6   0.00000  D45
+CIRCLE          0.35            D46
+SQUARE         0.425   0.00000            D47
+SQUARE         0.435   0.00000            D48
+RECTANGLE      0.625     0.425   0.00000  D49
+RECTANGLE      0.425     0.625   0.00000  D50
+RECTANGLE      0.725     0.525   0.00000  D51
+RECTANGLE      0.525     0.725   0.00000  D52
+RECTANGLE          1     0.825   0.00000  D53
+RECTANGLE      0.825         1   0.00000  D54
+RECTANGLE        1.1     0.925   0.00000  D55
+RECTANGLE      0.925       1.1   0.00000  D56
+LINE            0.25            D57
+OBLONG          0.25       0.5   0.00000  D58
+OBLONG           0.5      0.25   0.00000  D59
+LINE            0.35            D60
+OBLONG          0.35       0.6   0.00000  D61
+OBLONG           0.6      0.35   0.00000  D62
+RECTANGLE        1.5       1.5   0.00000  D63
+RECTANGLE        1.6       1.6   0.00000  D64
+RECTANGLE        0.7       0.4   0.00000  D65
+RECTANGLE        0.4       0.7   0.00000  D66
+RECTANGLE        0.8       0.5   0.00000  D67
+RECTANGLE        0.5       0.8   0.00000  D68
+RECTANGLE        1.8         4   0.00000  D69
+RECTANGLE          4       1.8   0.00000  D70
+RECTANGLE        1.9       4.1   0.00000  D71
+RECTANGLE        4.1       1.9   0.00000  D72
+LINE            0.28            D73
+OBLONG          0.28       0.7   0.00000  D74
+OBLONG           0.7      0.28   0.00000  D75
+LINE            0.38            D76
+OBLONG          0.38       0.8   0.00000  D77
+OBLONG           0.8      0.38   0.00000  D78
+RECTANGLE          1       1.7   0.00000  D79
+RECTANGLE        1.7         1   0.00000  D80
+RECTANGLE        1.1       1.8   0.00000  D81
+RECTANGLE        1.8       1.1   0.00000  D82
+RECTANGLE          1         1   0.00000  D83
+RECTANGLE        1.1       1.1   0.00000  D84
+SQUARE           0.3   0.00000            D85
+SQUARE          0.35   0.00000            D86
+CIRCLE             1            D87
+CIRCLE             3            D88
+CIRCLE           1.2            D89
+CIRCLE           1.3            D90
+CIRCLE             2            D91
+CIRCLE           2.1            D92
+CIRCLE           0.5            D93
+CIRCLE           0.6            D94
+CIRCLE           1.1            D95
+RECTANGLE      1.778     1.524   0.00000  D96
+RECTANGLE      1.524     1.778   0.00000  D97
+RECTANGLE     1.8796    1.6256   0.00000  D98
+RECTANGLE     1.6256    1.8796   0.00000  D99
+RECTANGLE        1.3       1.6   0.00000  D100
+RECTANGLE        1.6       1.3   0.00000  D101
+RECTANGLE        1.4       1.7   0.00000  D102
+RECTANGLE        1.7       1.4   0.00000  D103
+LINE            1.86            D104
+OBLONG          1.86       3.5   0.00000  D105
+OBLONG           3.5      1.86   0.00000  D106
+LINE               2            D107
+OBLONG             2       3.6   0.00000  D108
+OBLONG           3.6         2   0.00000  D109
+LINE             0.5            D110
+OBLONG           0.5       2.5   0.00000  D111
+OBLONG           2.5       0.5   0.00000  D112
+LINE             0.6            D113
+OBLONG           0.6       2.6   0.00000  D114
+OBLONG           2.6       0.6   0.00000  D115
+LINE             1.4            D116
+OBLONG           1.4         2   0.00000  D117
+OBLONG             2       1.4   0.00000  D118
+LINE          1.5499            D119
+OBLONG        1.5499    2.1501   0.00000  D120
+OBLONG        2.1501    1.5499   0.00000  D121
+CIRCLE        1.3208            D122
+CIRCLE        0.7112            D123
+CIRCLE        1.4986            D124
+CIRCLE         0.889            D125
+CIRCLE        0.9906            D126
+CIRCLE          0.45            D127
+CIRCLE          0.49            D128
+FLASH     V_EX19Y19D101        0.00000  D129
+CIRCLE        0.5999            D130
+FLASH     V_EX24Y24D121        0.00000  D131
+CIRCLE         3.302            D132
+CIRCLE         2.921            D133
+CIRCLE         3.048            D134
+CIRCLE        3.1496            D135
+CIRCLE        3.7592            D136
+FLASH     TR134X148X30-45      0.00000  D137
+CIRCLE        3.9878            D138
+CIRCLE        4.0894            D139
+FLASH     TR30X40X10-45        0.00000  D140
+CIRCLE        0.4572            D141
+CIRCLE        0.5588            D142
+CIRCLE         1.651            D143
+FLASH     TR51X65X15-45        0.00000  D144
+CIRCLE         1.397            D145
+CIRCLE        0.8128            D146
+CIRCLE        0.5842            D147
+CIRCLE        0.6604            D148
+CIRCLE        0.5001            D149
+FLASH     V_EX20Y20D101        0.00000  D150
+CIRCLE         0.762            D151
+CIRCLE        0.4826            D152
+RECTANGLE      1.016     0.508   0.00000  D153
+RECTANGLE      0.508     1.016   0.00000  D154
+RECTANGLE     1.1176    0.6096   0.00000  D155
+RECTANGLE     0.6096    1.1176   0.00000  D156
+RECTANGLE          1         2   0.00000  D157
+RECTANGLE          2         1   0.00000  D158
+RECTANGLE        1.1       2.1   0.00000  D159
+RECTANGLE        2.1       1.1   0.00000  D160
+RECTANGLE        0.5      0.55   0.00000  D161
+RECTANGLE       0.55       0.5   0.00000  D162
+RECTANGLE        0.6      0.65   0.00000  D163
+RECTANGLE       0.65       0.6   0.00000  D164
+OBLONG          0.28       1.2   0.00000  D165
+OBLONG           1.2      0.28   0.00000  D166
+OBLONG          0.38       1.3   0.00000  D167
+OBLONG           1.3      0.38   0.00000  D168
+SQUARE        1.8999   0.00000            D169
+SQUARE             2   0.00000            D170
+RECTANGLE        0.4      1.35   0.00000  D171
+RECTANGLE       1.35       0.4   0.00000  D172
+RECTANGLE     0.5499    1.5001   0.00000  D173
+RECTANGLE     1.5001    0.5499   0.00000  D174
+RECTANGLE     1.6256    1.6256   0.00000  D175
+RECTANGLE      1.016     1.016   0.00000  D176
+RECTANGLE     1.1176    1.1176   0.00000  D177
+RECTANGLE     2.1336    1.6256   0.00000  D178
+RECTANGLE     1.6256    2.1336   0.00000  D179
+RECTANGLE      1.524     1.016   0.00000  D180
+RECTANGLE      1.016     1.524   0.00000  D181
+RECTANGLE     1.6256    1.1176   0.00000  D182
+RECTANGLE     1.1176    1.6256   0.00000  D183
+RECTANGLE        2.5         2   0.00000  D184
+RECTANGLE          2       2.5   0.00000  D185
+RECTANGLE        2.6       2.1   0.00000  D186
+RECTANGLE        2.1       2.6   0.00000  D187
+RECTANGLE        0.9       0.8   0.00000  D188
+RECTANGLE        0.8       0.9   0.00000  D189
+RECTANGLE          1       0.9   0.00000  D190
+RECTANGLE        0.9         1   0.00000  D191
+RECTANGLE        2.5       0.4   0.00000  D192
+RECTANGLE        0.4       2.5   0.00000  D193
+RECTANGLE        2.6       0.5   0.00000  D194
+RECTANGLE        0.5       2.6   0.00000  D195
+CIRCLE          0.25            D196
+SQUARE           0.8   0.00000            D197
+SQUARE           0.9   0.00000            D198
+RECTANGLE        0.5       0.5   0.00000  D199
+RECTANGLE        1.6       1.8   0.00000  D200
+RECTANGLE        1.8       1.6   0.00000  D201
+RECTANGLE        1.7       1.9   0.00000  D202
+RECTANGLE        1.9       1.7   0.00000  D203
+RECTANGLE        1.8       2.4   0.00000  D204
+RECTANGLE        2.4       1.8   0.00000  D205
+RECTANGLE        1.9       2.5   0.00000  D206
+RECTANGLE        2.5       1.9   0.00000  D207
+LINE             0.7            D208
+OBLONG           0.7       4.2   0.00000  D209
+OBLONG           4.2       0.7   0.00000  D210
+LINE             0.8            D211
+OBLONG           0.8       4.3   0.00000  D212
+OBLONG           4.3       0.8   0.00000  D213
+RECTANGLE          1       1.3   0.00000  D214
+RECTANGLE        1.3         1   0.00000  D215
+RECTANGLE        1.1       1.4   0.00000  D216
+RECTANGLE        1.4       1.1   0.00000  D217
+RECTANGLE      1.397     1.143   0.00000  D218
+RECTANGLE      1.143     1.397   0.00000  D219
+RECTANGLE     1.4986    1.2446   0.00000  D220
+RECTANGLE     1.2446    1.4986   0.00000  D221
+RECTANGLE       1.27     1.016   0.00000  D222
+RECTANGLE      1.016      1.27   0.00000  D223
+RECTANGLE     1.3716    1.1176   0.00000  D224
+RECTANGLE     1.1176    1.3716   0.00000  D225
+RECTANGLE     1.1999    2.1999   0.00000  D226
+RECTANGLE     2.1999    1.1999   0.00000  D227
+RECTANGLE     1.3015    2.3015   0.00000  D228
+RECTANGLE     2.3015    1.3015   0.00000  D229
+CIRCLE         1.016            D230
+RECTANGLE     0.6858    0.9906   0.00000  D231
+RECTANGLE     0.9906    0.6858   0.00000  D232
+RECTANGLE     0.7874    1.0922   0.00000  D233
+RECTANGLE     1.0922    0.7874   0.00000  D234
+RECTANGLE      1.524      2.54   0.00000  D235
+RECTANGLE       2.54     1.524   0.00000  D236
+RECTANGLE     1.6256    2.6416   0.00000  D237
+RECTANGLE     2.6416    1.6256   0.00000  D238
+RECTANGLE     0.6096      1.27   0.00000  D239
+RECTANGLE       1.27    0.6096   0.00000  D240
+RECTANGLE     0.7112    1.3716   0.00000  D241
+RECTANGLE     1.3716    0.7112   0.00000  D242
+RECTANGLE       1.27     1.524   0.00000  D243
+RECTANGLE      1.524      1.27   0.00000  D244
+RECTANGLE     1.3716    1.6256   0.00000  D245
+RECTANGLE     1.6256    1.3716   0.00000  D246
+SQUARE          2.54   0.00000            D247
+SQUARE        2.6416   0.00000            D248
+RECTANGLE       1.27      1.27   0.00000  D249
+RECTANGLE     1.3716    1.3716   0.00000  D250
+SQUARE         0.762   0.00000            D251
+SQUARE        0.8636   0.00000            D252
+OBLONG           0.7    3.1999   0.00000  D253
+OBLONG        3.1999       0.7   0.00000  D254
+RECTANGLE        0.7       4.2   0.00000  D255
+RECTANGLE        4.2       0.7   0.00000  D256
+RECTANGLE        0.7       3.2   0.00000  D257
+RECTANGLE        3.2       0.7   0.00000  D258
+OBLONG           0.7    4.1999   0.00000  D259
+OBLONG        4.1999       0.7   0.00000  D260
+RECTANGLE        0.7    3.1999   0.00000  D261
+RECTANGLE     3.1999       0.7   0.00000  D262
+RECTANGLE     2.1999       1.4   0.00000  D263
+RECTANGLE        1.4    2.1999   0.00000  D264
+SQUARE        4.1999   0.00000            D265
+RECTANGLE        0.3    0.7501   0.00000  D266
+RECTANGLE     0.7501       0.3   0.00000  D267
+RECTANGLE     1.8001    1.5999   0.00000  D268
+RECTANGLE     1.5999    1.8001   0.00000  D269
+RECTANGLE     1.1001    2.5999   0.00000  D270
+RECTANGLE     2.5999    1.1001   0.00000  D271
+RECTANGLE     0.5999    0.5001   0.00000  D272
+RECTANGLE     0.5001    0.5999   0.00000  D273
+RECTANGLE          1       2.3   0.00000  D274
+RECTANGLE        2.3         1   0.00000  D275
+RECTANGLE     0.8001    0.8999   0.00000  D276
+RECTANGLE     0.8999    0.8001   0.00000  D277
+RECTANGLE     2.5601    4.5601   0.00000  D278
+RECTANGLE     4.5601    2.5601   0.00000  D279
+RECTANGLE     1.6599      2.16   0.00000  D280
+RECTANGLE       2.16    1.6599   0.00000  D281
+RECTANGLE        0.3    0.7551   0.00000  D282
+RECTANGLE     0.7551       0.3   0.00000  D283
+RECTANGLE        0.3    0.7549   0.00000  D284
+RECTANGLE     0.7549       0.3   0.00000  D285
+RECTANGLE     1.1001       1.7   0.00000  D286
+RECTANGLE        1.7    1.1001   0.00000  D287
+CIRCLE           0.4            D288
+RECTANGLE     1.1001       1.4   0.00000  D289
+RECTANGLE        1.4    1.1001   0.00000  D290
+RECTANGLE     2.5999       3.7   0.00000  D291
+RECTANGLE        3.7    2.5999   0.00000  D292
+RECTANGLE          1    0.5001   0.00000  D293
+RECTANGLE     0.5001         1   0.00000  D294
+RECTANGLE     1.1001         1   0.00000  D295
+RECTANGLE          1    1.1001   0.00000  D296
+LINE             0.1            D297
+LINE            0.15            D298
+LINE           0.254            D299
+LINE          0.1778            D300
+LINE             0.2            D301
+LINE          0.1016            D302
+LINE          0.1524            D303
+LINE          0.0749            D304
+LINE            0.05            D305
+LINE           0.125            D306
+LINE             0.3            D307
+LINE           0.127            D308
+LINE          0.0254            D309
+LINE          0.2032            D310
+LINE           0.635            D311
+LINE          0.1953            D312
+LINE          0.1501            D313
+LINE          0.1354            D314
+LINE          0.1999            D315
+LINE          0.1654            D316
+LINE          0.0762            D317
+LINE          0.2253            D318
+

@@ -1,0 +1,2 @@
+PCB thickness (PCB厚度) 0.6MM
+surface treatment（表面工艺）:ENIG(Electroless Nickel / Immersion Gold) 沉金
