@@ -1,0 +1,7 @@
+uc	bt
+
+vcc	vdd
+tx	rx
+rx	tx
+gnd	gnd
+pd2	pio[3]
