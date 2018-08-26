@@ -1,0 +1,47 @@
+Export log for : v009 pcb.Rep
+AddingPadStyle (Default)
+AddingPadStyle EF39X39TOP1
+AddingPadStyle EF16X24TOP1
+AddingPadStyle EF28X39TOP1
+AddingPadStyle EF16X16TOP1
+AddingPadStyle EF11X28TOP1
+AddingPadStyle EF157X71TOP1
+AddingPadStyle EF59X59TOP1
+AddingPadStyle EF20X10TOP1
+AddingPadStyle EF39X67TOP1
+AddingPadStyle EF28X16TOP1
+Adding ViaStyle (Default)
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H39W6
+Adding TextStyle T:H24W4
+Adding TextStyle T:H60W6
+Adding PatternDef SU06LST FULL_1
+Adding PatternDef SU01LS_1
+Adding PatternDef CC1005(0402)_1
+Adding PatternDef SU05LSR_1
+Adding PatternDef SU05LSR_2
+Adding PatternDef CC0603(0201)_1
+Adding PatternDef DELTA ASIC - 5_1
+Adding PatternDef CC0603(0201)_2
+Adding PatternDef 32M1-A L 3_1
+Adding PatternDef QUARTZ SMD (SMALL)_1
+Adding PatternDef CC1005(0402)_2
+Adding PatternDef 8m1-a mlf 3_1
+Adding PatternDef SU01LS_2
+Adding CompDef SU06LST FULL_1
+Adding CompDef SU01LS_1
+Adding CompDef CC1005(0402)_1
+Adding CompDef SU05LSR_1
+Adding CompDef SU05LSR_2
+Adding CompDef CC0603(0201)_1
+Adding CompDef DELTA ASIC - 5_1
+Adding CompDef CC0603(0201)_2
+Adding CompDef 32M1-A L 3_1
+Adding CompDef QUARTZ SMD (SMALL)_1
+Adding CompDef CC1005(0402)_2
+Adding CompDef 8m1-a mlf 3_1
+Adding CompDef SU01LS_2
+      Warning: Unexpected Free Text Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+ 
+EndLog

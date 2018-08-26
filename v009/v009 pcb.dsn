@@ -1,0 +1,545 @@
+(pcb v009_pcb.dsn
+    (resolution MIL 10000)
+    (structure
+        (boundary
+            (rect pcb
+                1462.039 2688.010 3072.829 3490.151
+            )
+        )
+        (boundary
+            (path signal 0.0
+                1998.032 3109.236
+                1997.825 3109.244
+                1997.619 3109.265
+                1997.415 3109.301
+                1997.214 3109.351
+                1997.017 3109.415
+                1996.825 3109.493
+                1996.639 3109.584
+                1996.459 3109.687
+                1996.288 3109.803
+                1996.124 3109.931
+                1995.970 3110.069
+                1995.827 3110.218
+                1995.693 3110.377
+                1995.572 3110.544
+                1995.462 3110.720
+                1995.365 3110.903
+                1995.280 3111.092
+                1995.209 3111.287
+                1995.152 3111.486
+                1995.109 3111.689
+                1995.081 3111.894
+                1995.064 3112.204
+                1995.064 3112.204
+                1995.064 3324.802
+                1995.072 3325.009
+                1995.093 3325.215
+                1995.129 3325.419
+                1995.179 3325.620
+                1995.243 3325.817
+                1995.321 3326.009
+                1995.412 3326.195
+                1995.515 3326.375
+                1995.631 3326.546
+                1995.759 3326.710
+                1995.897 3326.863
+                1996.046 3327.007
+                1996.205 3327.141
+                1996.372 3327.262
+                1996.548 3327.372
+                1996.731 3327.469
+                1996.920 3327.554
+                1997.115 3327.624
+                1997.314 3327.682
+                1997.517 3327.725
+                1997.722 3327.753
+                1998.032 3327.770
+                1998.032 3327.770
+                2832.678 3327.770
+                2832.885 3327.762
+                2833.091 3327.741
+                2833.295 3327.705
+                2833.496 3327.655
+                2833.693 3327.591
+                2833.885 3327.513
+                2834.071 3327.422
+                2834.251 3327.319
+                2834.422 3327.203
+                2834.586 3327.075
+                2834.740 3326.937
+                2834.883 3326.788
+                2835.017 3326.629
+                2835.138 3326.461
+                2835.248 3326.286
+                2835.345 3326.103
+                2835.430 3325.914
+                2835.501 3325.719
+                2835.557 3325.520
+                2835.601 3325.317
+                2835.629 3325.112
+                2835.646 3324.802
+                2835.646 3324.802
+                2835.646 3112.204
+                2835.639 3111.997
+                2835.617 3111.791
+                2835.581 3111.587
+                2835.531 3111.386
+                2835.467 3111.189
+                2835.389 3110.997
+                2835.298 3110.811
+                2835.195 3110.631
+                2835.079 3110.460
+                2834.951 3110.296
+                2834.813 3110.142
+                2834.664 3109.999
+                2834.505 3109.865
+                2834.338 3109.744
+                2834.162 3109.634
+                2833.979 3109.537
+                2833.790 3109.452
+                2833.595 3109.381
+                2833.396 3109.325
+                2833.193 3109.281
+                2832.988 3109.253
+                2832.678 3109.236
+                2832.678 3109.236
+                1998.032 3109.236
+            )
+        )
+        (via
+            Via0_TB_RoutingVias
+            Via1_TM1_RoutingVias
+            Via2_BM2_RoutingVias
+        )
+        (rule
+            (length_amplitude 200 20)
+            (width 4.724)
+            (clearance 4.724)
+            (reorder starburst)
+        )
+        (layer TopLayer 
+            (type signal) (direction horizontal)
+        )
+        (layer BottomLayer 
+            (type signal) (direction vertical)
+        )
+        (region v009_schematics
+            (polygon SIGNAL 0.00 
+                2881.884 3066.923
+                3072.829 3066.923
+                3072.829 3490.151
+                2881.884 3490.151
+            )
+        )
+        (keepout 
+            (path signal 5.905 1994.094 3108.268 2836.614 3108.268)
+        )
+        (keepout 
+            (path signal 5.905 2836.614 3108.268 2836.614 3328.740)
+        )
+        (keepout 
+            (path signal 5.905 1994.094 3328.740 2836.614 3328.740)
+        )
+        (keepout 
+            (path signal 5.905 1994.094 3108.268 1994.094 3328.740)
+        )
+        (grid wire 20.000)
+        (grid via 20.000)
+    )
+    (placement
+        (component SU06LST~SP~FULL_CN3
+            (place CN3 2462.596 3275.591 front 0))
+        (component SU01LS_-
+            (place - 2809.055 3299.213 front 0))
+        (component CC1005~LP~0402~RP~_D2
+            (place D2 2488.189 3314.961 front 0))
+        (component SU05LSR_CN2
+            (place CN2 2809.055 3155.512 front 0))
+        (component SU05LSR_CN1
+            (place CN1 2021.653 3283.465 front 0))
+        (component CC0603~LP~0201~RP~_C2
+            (place C2 2240.157 3255.905 front 0))
+        (component DELTA~SP~ASIC~SP~-~SP~5_U3
+            (place U3 2214.567 3316.929 front 0))
+        (component CC0603~LP~0201~RP~_C1
+            (place C1 2228.347 3187.008 front 0))
+        (component 32M1-A~SP~L~SP~3_U1
+            (place U1 2250.000 3320.866 front 0))
+        (component QUARTZ~SP~SMD~SP~~LP~SMALL~RP~_Q1
+            (place Q1 2531.496 3253.937 front 0))
+        (component CC1005~LP~0402~RP~_D1
+            (place D1 2523.622 3314.961 front 0))
+        (component 8m1-a~SP~mlf~SP~3_U2
+            (place U2 2539.370 3316.929 front 0))
+        (component SU01LS_+
+            (place + 2811.021 3124.016 front 0))
+    )
+    (library
+        (image SU06LST~SP~FULL_CN3
+            (pin Pad18 6 269.682 23.619 )
+            (pin Pad18 5 220.468 23.619 )
+            (pin Pad18 4 171.256 23.619 )
+            (pin Pad18 3 122.044 23.619 )
+            (pin Pad18 2 72.832 23.619 )
+            (pin Pad18 1 23.618 23.619 )
+        )
+        (image SU01LS_-
+            (pin Pad19 1 0.001 0.000 )
+        )
+        (image CC1005~LP~0402~RP~_D2
+            (pin Pad5 1 -9.841 -3.937  (rotate 90))
+            (pin Pad5 2 -9.841 -35.433  (rotate 90))
+        )
+        (image SU05LSR_CN2
+            (pin Pad17 1 -0.001 0.000  (rotate 90))
+            (pin Pad17 2 -0.001 37.402  (rotate 90))
+            (pin Pad17 3 -0.001 74.804  (rotate 90))
+            (pin Pad17 4 -0.001 112.204  (rotate 90))
+            (pin Pad16 5 -0.001 149.606  (rotate 270))
+        )
+        (image SU05LSR_CN1
+            (pin Pad17 5 0.001 -149.605  (rotate 90))
+            (pin Pad16 4 0.001 -112.205  (rotate 270))
+            (pin Pad16 3 0.001 -74.803  (rotate 270))
+            (pin Pad16 2 0.001 -37.401  (rotate 270))
+            (pin Pad16 1 0.001 0.001  (rotate 270))
+        )
+        (image CC0603~LP~0201~RP~_C2
+            (pin Pad15 2 -5.904 -23.619  (rotate 90))
+            (pin Pad15 1 -5.904 0.003  (rotate 90))
+        )
+        (image DELTA~SP~ASIC~SP~-~SP~5_U3
+            (pin Pad14 14 -9.842 -39.370  (rotate 270))
+            (pin Pad14 13 -9.842 -59.055  (rotate 270))
+            (pin Pad14 12 -9.842 -78.740  (rotate 270))
+            (pin Pad14 11 -9.842 -98.425  (rotate 270))
+            (pin Pad14 10 -9.842 -118.110  (rotate 270))
+            (pin Pad14 9 -9.842 -137.795  (rotate 270))
+            (pin Pad14 8 -9.842 -157.480  (rotate 270))
+            (pin Pad14 7 -151.575 -157.480  (rotate 270))
+            (pin Pad14 6 -151.575 -137.795  (rotate 270))
+            (pin Pad14 5 -151.575 -118.110  (rotate 270))
+            (pin Pad14 4 -151.575 -98.425  (rotate 270))
+            (pin Pad14 3 -151.575 -78.740  (rotate 270))
+            (pin Pad14 2 -151.575 -59.055  (rotate 270))
+            (pin Pad14 1 -151.575 -39.370  (rotate 270))
+            (pin Pad13 15 -80.709 -98.425  (rotate 270))
+        )
+        (image CC0603~LP~0201~RP~_C1
+            (pin Pad12 1 5.905 -0.002  (rotate 270))
+            (pin Pad12 2 5.905 23.620  (rotate 270))
+        )
+        (image 32M1-A~SP~L~SP~3_U1
+            (pin Pad4 33 102.638 -103.308 )
+            (pin Pad11 1 9.842 -33.464 )
+            (pin Pad11 2 9.842 -53.150 )
+            (pin Pad11 3 9.842 -72.836 )
+            (pin Pad11 4 9.842 -92.520 )
+            (pin Pad11 5 9.842 -112.206 )
+            (pin Pad11 6 9.842 -131.890 )
+            (pin Pad11 7 9.842 -151.576 )
+            (pin Pad11 8 9.842 -171.260 )
+            (pin Pad10 9 33.464 -194.882  (rotate 270))
+            (pin Pad10 10 53.150 -194.882  (rotate 270))
+            (pin Pad10 11 72.834 -194.882  (rotate 270))
+            (pin Pad10 12 92.520 -194.882  (rotate 270))
+            (pin Pad10 13 112.204 -194.882  (rotate 270))
+            (pin Pad10 14 131.890 -194.882  (rotate 270))
+            (pin Pad10 15 151.574 -194.882  (rotate 270))
+            (pin Pad10 16 171.260 -194.882  (rotate 270))
+            (pin Pad9 17 194.882 -171.260 )
+            (pin Pad9 18 194.882 -151.576 )
+            (pin Pad9 19 194.882 -131.890 )
+            (pin Pad9 20 194.882 -112.206 )
+            (pin Pad9 21 194.882 -92.520 )
+            (pin Pad9 22 194.882 -72.836 )
+            (pin Pad9 23 194.882 -53.150 )
+            (pin Pad9 24 194.882 -33.464 )
+            (pin Pad8 25 171.260 -9.842  (rotate 90))
+            (pin Pad8 26 151.574 -9.842  (rotate 90))
+            (pin Pad8 27 131.890 -9.842  (rotate 90))
+            (pin Pad8 28 112.204 -9.842  (rotate 90))
+            (pin Pad8 29 92.520 -9.842  (rotate 90))
+            (pin Pad8 30 72.834 -9.842  (rotate 90))
+            (pin Pad8 31 53.150 -9.842  (rotate 90))
+            (pin Pad8 32 33.464 -9.842  (rotate 90))
+        )
+        (image QUARTZ~SP~SMD~SP~~LP~SMALL~RP~_Q1
+            (pin Pad7 1 -35.432 -19.687  (rotate 90))
+            (pin Pad6 2 -35.432 -118.111  (rotate 270))
+        )
+        (image CC1005~LP~0402~RP~_D1
+            (pin Pad5 1 -9.838 -3.941  (rotate 90))
+            (pin Pad5 2 -9.838 -35.437  (rotate 90))
+        )
+        (image 8m1-a~SP~mlf~SP~3_U2
+            (pin Pad4 UNNAMED_PAD 118.108 -98.425 )
+            (pin Pad3 1 9.840 -27.559 )
+            (pin Pad3 2 9.840 -74.803 )
+            (pin Pad3 3 9.840 -122.047 )
+            (pin Pad3 4 9.840 -169.291 )
+            (pin Pad3 5 226.376 -169.291 )
+            (pin Pad3 6 226.376 -122.047 )
+            (pin Pad3 7 226.376 -74.803 )
+            (pin Pad3 8 226.376 -27.559 )
+        )
+        (image SU01LS_+
+            (pin Pad18 1 -1.966 13.780 )
+        )
+        (padstack Via0_TB_RoutingVias
+            (shape (circle signal 13.780))
+        )
+        (padstack Via1_TM1_RoutingVias
+            (shape (circle TopLayer 13.780))
+            (shape (circle BottomLayer 13.780))
+            (shape (circle MidLayer1 13.780))
+        )
+        (padstack Via2_BM2_RoutingVias
+            (shape (circle BottomLayer 13.780))
+            (shape (circle MidLayer2 13.780))
+        )
+        (padstack Pad3
+            (shape (rect TopLayer -13.780 -7.874 13.780 7.874))
+        )
+        (padstack Pad4
+            (shape (rect TopLayer -29.527 -29.527 29.527 29.527))
+        )
+        (padstack Pad5
+            (shape (rect TopLayer -7.874 -11.811 7.874 11.811))
+        )
+        (padstack Pad6
+            (shape (rect TopLayer -19.685 -33.465 19.685 33.465))
+        )
+        (padstack Pad7
+            (shape (rect TopLayer -19.685 -33.465 19.685 33.465))
+        )
+        (padstack Pad8
+            (shape (rect TopLayer -9.842 -4.921 9.842 4.921))
+        )
+        (padstack Pad9
+            (shape (rect TopLayer -9.842 -4.921 9.842 4.921))
+        )
+        (padstack Pad10
+            (shape (rect TopLayer -9.842 -4.921 9.842 4.921))
+        )
+        (padstack Pad11
+            (shape (rect TopLayer -9.842 -4.921 9.842 4.921))
+        )
+        (padstack Pad12
+            (shape (rect TopLayer -7.874 -7.874 7.874 7.874))
+        )
+        (padstack Pad13
+            (shape (rect TopLayer -78.740 -35.433 78.740 35.433))
+        )
+        (padstack Pad14
+            (shape (rect TopLayer -5.512 -13.780 5.512 13.780))
+        )
+        (padstack Pad15
+            (shape (rect TopLayer -7.874 -7.874 7.874 7.874))
+        )
+        (padstack Pad16
+            (shape (rect TopLayer -13.780 -19.685 13.780 19.685))
+        )
+        (padstack Pad17
+            (shape (rect TopLayer -13.780 -19.685 13.780 19.685))
+        )
+        (padstack Pad18
+            (shape (rect BottomLayer -19.685 -19.685 19.685 19.685))
+        )
+        (padstack Pad19
+            (shape (rect BottomLayer -19.685 -19.685 19.685 19.685))
+        )
+    )
+    (network
+        (net TOSC2
+            (pins
+                U1-8 Q1-2 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net TOSC1
+            (pins
+                U1-7 Q1-1 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net HEAD~SP~3
+            (pins
+                CN1-4 U3-7 
+            )
+            (rule
+                (clearance 4.724)
+                 (width 7.874)
+            )
+        )
+        (net HEAD~SP~2
+            (pins
+                CN1-3 U3-5 
+            )
+            (rule
+                (clearance 4.724)
+                 (width 7.874)
+            )
+        )
+        (net HEAD~SP~1
+            (pins
+                CN1-2 U3-3 
+            )
+            (rule
+                (clearance 4.724)
+                 (width 7.874)
+            )
+        )
+        (net PC1
+            (pins
+                U1-24 D2-2 
+            )
+            (rule
+                (clearance 4.724)
+                 (width 5.512)
+            )
+        )
+        (net PC0
+            (pins
+                U1-23 D1-2 
+            )
+            (rule
+                (clearance 4.724)
+                 (width 5.512)
+            )
+        )
+        (net RST
+            (pins
+                U1-29 CN3-5 U1-28 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net HCOMMON
+            (pins
+                CN1-1 U3-1 
+            )
+            (rule
+                (clearance 4.724)
+                 (width 7.874)
+            )
+        )
+        (net VCC
+            (pins
+                C1-1 U1-18 U1-6 U1-4 D2-1 U2-6 CN2-1 
+                +-1 D1-1 CN3-2 
+            )
+            (rule
+                (clearance 4.724)
+                 (width 5.905)
+            )
+        )
+        (net TX
+            (pins
+                U1-31 CN2-2 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net RX
+            (pins
+                U1-30 CN2-3 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net PD6
+            (pins
+                U3-8 U1-10 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net PD5
+            (pins
+                U3-13 U1-9 C2-1 
+            )
+            (rule
+                (clearance 4.724)
+                 (width 5.512)
+            )
+        )
+        (net PD3
+            (pins
+                U3-10 U1-1 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net PD2
+            (pins
+                U1-32 CN2-4 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net PB5
+            (pins
+                U1-17 U2-2 CN3-3 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net PB4
+            (pins
+                U1-16 CN3-1 U2-8 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net PB3
+            (pins
+                U1-15 CN3-4 U2-1 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net PB2
+            (pins
+                U1-14 U2-4 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net PB0
+            (pins
+                U1-12 U2-3 
+            )
+            (rule
+                (clearance 4.724)
+            )
+        )
+        (net GND
+            (pins
+                CN1-5 U3-15 C1-2 U1-5 U3-12 C2-2 U1-3 
+                U1-33 U1-21 U2-7 CN3-6 CN2-5 --1 
+            )
+            (rule
+                (clearance 4.724)
+                 (width 5.905)
+            )
+        )
+    )
+    (wiring
+    )
+)
