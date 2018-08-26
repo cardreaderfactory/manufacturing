@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: v007slim pcb 2.PcbDoc   24/11/2009  20:54:32
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : v007slim pcb 2-Plated.TXT
+EIA File   : v007slim pcb 2.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.15mm (5.905mil)        Round          25               7310.93 mm (287.83 Inch)
+---------------------------------------------------------------------------
+Totals                                            25               7310.93 mm (287.83 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

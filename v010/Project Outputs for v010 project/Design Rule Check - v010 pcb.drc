@@ -1,0 +1,155 @@
+Protel Design System Design Rule Check
+PCB File : Y:\p4\pcb\v010\v010 pcb.PcbDoc
+Date     : 20/03/2013
+Time     : 10:54:25
+
+WARNING: Your board contains 2 shelved polygons - copper connectivity will not be reported correctly. Unshelve polygons and re-run DRC check before  producing manufacturing outputs.
+   Polygon named: Bottom Layer-No Net In net GND On Bottom Layer
+   Polygon named: Bottom Layer-No Net In net GND On Top Layer
+
+Processing Rule : Width Constraint (Min=0.14mm) (Max=0.14mm) (Preferred=0.14mm) ((InNet('PD5') OR InNet('PC0') OR InNet('PC1') OR InNet('NetGreen Led_1')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) ((IsVia)),((IsVia))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (InPoly),(IsPad)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.11mm) (Max=0.11mm) (Preferred=0.11mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.04mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net HEAD 3 Between Pad U3-7 (52.5,80.3mm) And Pad CN1-4 (52.65,80.75mm)
+   Violation between Un-Routed Net Constraint: Net HEAD 2 Between Pad U3-5 (52.5,81.3mm) And Pad CN1-3 (52.65,81.7mm)
+   Violation between Un-Routed Net Constraint: Net HEAD 1 Between Pad U3-3 (52.5,82.3mm) And Pad CN1-2 (52.65,82.65mm)
+   Violation between Un-Routed Net Constraint: Net PD3 Between Track on layer Top Layer (55.95,81.45mm) And Pad U1-1 (62,84.15mm)
+Rule Violations :4
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.17mm) (Max=0.17mm) (Preferred=0.17mm) ((InNet('GND') OR InNet('VCC')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (All),(IsPad)
+   Violation between Track (52mm,84.55mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-1(62mm,84.15mm)  Top Layer
+   Violation between Track (52mm,84.55mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-2(61.5mm,84.15mm)  Top Layer
+   Violation between Track (52mm,84.55mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-3(61mm,84.15mm)  Top Layer
+   Violation between Track (52mm,84.55mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-4(60.5mm,84.15mm)  Top Layer
+   Violation between Track (52mm,84.55mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-5(60mm,84.15mm)  Top Layer
+   Violation between Track (52mm,84.55mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-6(59.5mm,84.15mm)  Top Layer
+   Violation between Track (52mm,84.55mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-7(59mm,84.15mm)  Top Layer
+   Violation between Track (52mm,84.55mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-8(58.5mm,84.15mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad U1-17(58.5mm,79.45mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad U1-18(59mm,79.45mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad U1-19(59.5mm,79.45mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad U1-21(60.5mm,79.45mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad U1-22(61mm,79.45mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad U1-23(61.5mm,79.45mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad U1-24(62mm,79.45mm)  Top Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-25(62.6mm,80.05mm)  Top Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-26(62.6mm,80.55mm)  Top Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-27(62.6mm,81.05mm)  Top Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-28(62.6mm,81.55mm)  Top Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-29(62.6mm,82.05mm)  Top Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-30(62.6mm,82.55mm)  Top Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-31(62.6mm,83.05mm)  Top Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad U1-32(62.6mm,83.55mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad C1-2(56.75mm,79.45mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad C1-1(57.35mm,79.45mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(52mm,84.55mm)  Keep-Out Layer and 
+                     Pad U3-1(52.5mm,83.3mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(52mm,84.55mm)  Keep-Out Layer and 
+                     Pad U3-3(52.5mm,82.3mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(52mm,84.55mm)  Keep-Out Layer and 
+                     Pad U3-5(52.5mm,81.3mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(52mm,84.55mm)  Keep-Out Layer and 
+                     Pad U3-7(52.5mm,80.3mm)  Top Layer
+   Violation between Track (52mm,79.05mm)(52mm,84.55mm)  Keep-Out Layer and 
+                     Pad CN1-1(52.65mm,83.6mm)  Bottom Layer
+   Violation between Track (52mm,79.05mm)(52mm,84.55mm)  Keep-Out Layer and 
+                     Pad CN1-2(52.65mm,82.65mm)  Bottom Layer
+   Violation between Track (52mm,79.05mm)(52mm,84.55mm)  Keep-Out Layer and 
+                     Pad CN1-3(52.65mm,81.7mm)  Bottom Layer
+   Violation between Track (52mm,79.05mm)(52mm,84.55mm)  Keep-Out Layer and 
+                     Pad CN1-4(52.65mm,80.75mm)  Bottom Layer
+   Violation between Track (52mm,79.05mm)(52mm,84.55mm)  Keep-Out Layer and 
+                     Pad CN1-5(52.65mm,79.8mm)  Bottom Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad D1-1(61.25mm,79.4mm)  Bottom Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad CN2-5(62.35mm,83.85mm)  Bottom Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad CN2-4(62.35mm,82.9mm)  Bottom Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad CN2-3(62.35mm,81.95mm)  Bottom Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad CN2-2(62.35mm,81mm)  Bottom Layer
+   Violation between Track (63mm,79.05mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad CN2-1(62.35mm,80.05mm)  Bottom Layer
+   Violation between Track (52mm,79.05mm)(63mm,79.05mm)  Keep-Out Layer and 
+                     Pad D2-1(60.45mm,79.4mm)  Bottom Layer
+   Violation between Track (52mm,84.55mm)(63mm,84.55mm)  Keep-Out Layer and 
+                     Pad Q1-2(60.7mm,84.05mm)  Bottom Layer
+Rule Violations :42
+
+Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.17mm) (Max=0.17mm) (Preferred=0.17mm) ((InNet('HEAD 1') OR InNet('HEAD 2') OR InNet('HEAD 3') OR InNet('HCOMMON')))
+Rule Violations :0
+
+Processing Rule : Room v007slim schematics (Bounding Region = (72.55mm, 78.8mm, 75.9mm, 82.85mm) (InComponentClass('v007slim schematics'))
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+Rule Violations :10
+
+
+Violations Detected : 56
+Time Elapsed        : 00:00:00
