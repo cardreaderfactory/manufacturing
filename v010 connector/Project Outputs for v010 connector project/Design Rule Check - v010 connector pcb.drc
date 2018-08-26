@@ -1,0 +1,52 @@
+Protel Design System Design Rule Check
+PCB File : Y:\p4\pcb\v010 connector\v010 connector pcb.PcbDoc
+Date     : 23/10/2012
+Time     : 11:36:36
+
+Processing Rule : Clearance Constraint (Gap=0mm) ((OnLayer('Keep-Out Layer'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Room v010 connector schematics (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('v010 connector schematics'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) ((IsVia)),((IsVia))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InPoly),(IsPad)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=0.2mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.04mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=0.2mm) (Preferred=0.2mm) ((InNet('GND') OR InNet('VCC')))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.3mm) (All)
+   Violation between Minimum Annular Ring (0.25mm < 0.3mm) : Via (55.05mm,78.85mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.25mm < 0.3mm) : Via (53.3mm,79.95mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.25mm < 0.3mm) : Via (53.4mm,78.02447mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.25mm < 0.3mm) : Via (53.99989mm,78.84984mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.25mm < 0.3mm) : Via (56.85mm,77.3mm) Top Layer to Bottom Layer
+Rule Violations :5
+
+
+Violations Detected : 5
+Time Elapsed        : 00:00:01

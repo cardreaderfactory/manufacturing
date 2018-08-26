@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: v010 connector pcb.PcbDoc   22/10/2012  13:42:45
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : v010 connector pcb.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          5                8.88 mm (0.35 Inch)
+---------------------------------------------------------------------------
+Totals                                            5                8.88 mm (0.35 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

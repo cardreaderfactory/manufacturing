@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [v010 connector project.PrjPcb]
+   Generated File[v010 connector pcb.GTL]
+   Generated File[v010 connector pcb.GBL]
+   Generated File[v010 connector pcb.GPB]
+   Generated File[v010 connector pcb.GPT]
+   Generated File[v010 connector pcb.GTO]
+   Generated File[v010 connector pcb.GTP]
+   Generated File[v010 connector pcb.GTS]
+   Generated File[v010 connector pcb.GBS]
+   Generated File[v010 connector pcb.GBP]
+   Generated File[v010 connector pcb.GBO]
+   Generated File[v010 connector pcb.GM13]
+   Generated File[v010 connector pcb.GM15]
+   Generated File[v010 connector pcb.GKO]
+   Generated File[v010 connector pcb.GD1]
+   Generated File[v010 connector pcb.GG1]
+   Generated File[v010 connector pcb.RUL]
+   Generated File[v010 connector pcb.EXTREP]
+   Generated File[v010 connector pcb.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 13:20:22 On 23/10/2012
